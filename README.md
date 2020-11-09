@@ -20,3 +20,4 @@
 6. Quering Database using Python Tries: https://github.com/theshahmirali/quering-database-trie
 7. Vehicle Rental System Database in SQL: https://github.com/theshahmirali/vehicle-rental-system-database
 8. AirTnT (Airbnb) Database System in SQL: https://github.com/theshahmirali/airtnt-database-system
+9. University Backend System in JAVA: https://github.com/theshahmirali/university-backend-system
