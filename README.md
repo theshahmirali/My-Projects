@@ -3,7 +3,7 @@
 ## Data Science and Analysis Projects
 
 1. Fake News Detection System on Social Media Platform: https://github.com/theshahmirali/Fake-News-Detection-System
-2. Covid-19 Analysis Visualization: https://github.com/theshahmirali/Covid-19-Visualisation-Vega
+2. Covid-19 Analysis and Visualization: https://github.com/theshahmirali/Covid-19-Visualisation-Vega
 3. Video Games Analysis and Visualization on Tableau: https://github.com/theshahmirali/Video-Games-Visualization-Tableau
 4. Houses in California Data Analysis: https://github.com/theshahmirali/Data-Analysis-Projects/tree/main/Houses%20in%20California%20Analysis%20with%20ML
 5. Investment Strategies Analysis for US Stocks: https://github.com/theshahmirali/Data-Analysis-Projects/tree/main/Investment%20Strategies%20Analysis
