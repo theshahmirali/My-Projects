@@ -5,10 +5,11 @@
 1. Fake News Detection System on Social Media Platform: https://github.com/theshahmirali/Fake-News-Detection-System
 2. Covid-19 Analysis and Visualization: https://github.com/theshahmirali/Covid-19-Visualisation-Vega
 3. Video Games Analysis and Visualization on Tableau: https://github.com/theshahmirali/Video-Games-Visualization-Tableau
-4. Houses in California Data Analysis: https://github.com/theshahmirali/Data-Analysis-Projects/tree/main/Houses%20in%20California%20Analysis%20with%20ML
-5. Investment Strategies Analysis for US Stocks: https://github.com/theshahmirali/Data-Analysis-Projects/tree/main/Investment%20Strategies%20Analysis
-6. Analysis on Hollywood Movies: https://github.com/theshahmirali/Data-Analysis-Projects/tree/main/Movies%20Analysis
-7. Web Scraping API for US Stocks: https://github.com/theshahmirali/Data-Analysis-Projects/tree/main/Web%20API%20Scraping%20for%20US%20Stocks
+4. Cats, Our Last Hope!: https://public.tableau.com/app/profile/shah.mir.ali/viz/test_16055635536290/FinalDashboard?publish=yes
+5. Houses in California Data Analysis: https://github.com/theshahmirali/Data-Analysis-Projects/tree/main/Houses%20in%20California%20Analysis%20with%20ML
+6. Investment Strategies Analysis for US Stocks: https://github.com/theshahmirali/Data-Analysis-Projects/tree/main/Investment%20Strategies%20Analysis
+7. Analysis on Hollywood Movies: https://github.com/theshahmirali/Data-Analysis-Projects/tree/main/Movies%20Analysis
+8. Web Scraping API for US Stocks: https://github.com/theshahmirali/Data-Analysis-Projects/tree/main/Web%20API%20Scraping%20for%20US%20Stocks
 
 ## Software Development Projects
 
